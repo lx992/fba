@@ -1,0 +1,1 @@
+<tr class="alert alert-warning"><td colspan="{{$colspan}}">رکوردی یافت نشد</td></tr>
